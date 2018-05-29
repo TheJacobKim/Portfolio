@@ -2,6 +2,8 @@
 
 This document contains my projects (personal & school) and awards.
 
+## Projects ##
+
 ## alien_invasion, Arcade Game (Python)
 * Synopsis
   * A simple attempt to create a video game with Python. Main objective of this game, Alien Invasion, is to shoot down aliens before they reach the bottom. 
@@ -17,7 +19,7 @@ The game looks like this.
 ### Built with
 * [PyGame]
 
-
+---
 ## IRISDataSet ##
 * This is a work done from IEEE's 2018 python workshop. 
 * Using Python's matplotlib and sklearn libraries, I visualised and separted Iris flower dataset. Iris flower dataset consiss of 50 samples from each of three speicses of iris. 
@@ -32,6 +34,8 @@ The game looks like this.
 #### Using Support Vector Classifier ####
 
 <img src="https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example2.png" height="276" width="415">
+
+---
 
 ## Popular Name (C) ##
 
@@ -70,6 +74,17 @@ To run this program, type executeable name. For example:
 
 ### Normal output ###
 `./pa3 `
+
+***
+## Awards ##
+
+### CIRT Design Competition ###
+* Designed Obama’s Presidential Library with 3d modeling software and won a national design competition.
+[Link to the Press Release](http://www.cirt.org/resources/Pictures/ACE42417_NatlWinners_PR.pdf)
+
+### BluePrint CS (3rd place) ###
+* Hackathon event at UCSD
+
 
 
 
