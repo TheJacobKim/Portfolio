@@ -1,5 +1,11 @@
-# Hyunjun Kim, Portfolio 
+# Hyunjun Kim, Side Projects & Awards 
 This document lists my projects & awards.
+
+## Education
+ UC San Diego , Computer Science Major
+
+## Contact
+ Email: hyk053@ucsd.edu</p>
 
 ## Projects ##
 
