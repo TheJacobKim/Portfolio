@@ -106,7 +106,7 @@ To run this program, type executeable name. For example:
 
 ### CIRT Design Competition ###
 * Designed Obama’s Presidential Library with 3d modeling software and won a national design competition.
-[Link to the Press Release](http://www.cirt.org/resources/Pictures/ACE42417_NatlWinners_PR.pdf)
+* [Link to the Press Release](http://www.cirt.org/resources/Pictures/ACE42417_NatlWinners_PR.pdf)
 ##### One on the right is me #####
 <img src="https://i.imgur.com/f1avJfp.png" height="515" width="519">
 
@@ -117,15 +117,16 @@ To run this program, type executeable name. For example:
 
 <img src="https://www.pycon.kr/2017/static/image/pyconkr-2017-cover.png" height="150" width="300">
 
-* Participant of Pycon 2017, in Seoul, South Korea.
-* Learned abput about Pandas and numPy
+* Attended of Pycon 2017, in Seoul, South Korea.
+* Participated in a code sprint about Pandas and numPy libs.
 
 ### SDHacks 2017
 
 <img src="https://www.sdhacks.io/assets/sdhacks-logo.svg" height="154" width="160">
 
-* Participant of Pycon 2017, in Seoul, South Korea.
-* Learned abput about Pandas and numPy
+* Designed a VR simulation that uses iPhone as a remote control.
+* Applied object oriented programming skill to create objects in VR space.
+* Technology: Unity Engine, xCode
 
 
 
