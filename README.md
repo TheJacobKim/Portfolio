@@ -4,42 +4,46 @@ This document contains my projects (personal & school) and awards.
 
 ## Projects ##
 
-## alien_invasion, Arcade Game (Python)
-* Synopsis
+### alien_invasion, Arcade Game (Python) ###
+##### Synopsis
   * A simple attempt to create a video game with Python. Main objective of this game, Alien Invasion, is to shoot down aliens before they reach the bottom. 
   * It uses pygame library to run.
 
 ~~I used Kim Jong-Un as a villan, but when peace finally arrives between North and South Korea, he will be removed from the villans.~~
 
-### Demo
-The game looks like this.
+##### Demo
+ * The game looks like this.
 
 <img src="https://github.com/TheJacobKim/alien_invasion/blob/master/images/README1.PNG" height="416" width="302">
 
-### Built with
-* [PyGame]
+##### Built with
+ * [PyGame]
 
 ---
-## IRISDataSet ##
-* This is a work done from IEEE's 2018 python workshop. 
-* Using Python's matplotlib and sklearn libraries, I visualised and separted Iris flower dataset. Iris flower dataset consiss of 50 samples from each of three speicses of iris. 
-* By using K-NN classification and support vector classifiers/machine I can sepearte different flowers in the dataset. 
+### IRISDataSet ###
+##### Synopsis
+ * This is a work done from IEEE's 2018 python workshop. 
+ * Using Python's matplotlib and sklearn libraries, I visualised and separted Iris flower dataset. Iris flower dataset consiss of 50 samples from each of three speicses of iris. 
+ * By using K-NN classification and support vector classifiers/machine I can sepearte different flowers in the dataset. 
 
-
-### Demo ###
-#### Plotting sepal width / petal width ####
+##### Demo
+ * Plotting sepal width / petal width
 
 <img src="https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example1.png" height="276" width="415">
 
-#### Using Support Vector Classifier ####
+ * Using Support Vector Classifier
 
 <img src="https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example2.png" height="276" width="415">
 
+##### Built with
+ * Jupyter Notebook
+ * sklearn
+
 ---
 
-## Popular Name (C) ##
+### Popular Name (C) ###
 
-### Description ###
+##### Description #####
   This simple program takes in few flags or nothing.
   
   flags:
@@ -54,13 +58,13 @@ The game looks like this.
 three commands with a space, user can input a name. Then user can see a graph 
 or statistics of this name from the 19th century to 21th century.
 
-### How to compile ###
+##### How to compile #####
 To compile this program, simply navigate to the directory containing 
 the source files for PA3 (which should include the Makefile) and type make.
 
 `make`
 
-### How to run ###
+##### How to run #####
 To run this program, type executeable name. For example:
 
 ```bash
@@ -72,18 +76,27 @@ To run this program, type executeable name. For example:
   Detailed Usage can be seen from typing -h
 `./pa2 -h`
 
-### Normal output ###
+##### Normal output #####
 `./pa3 `
+
+<img src="https://i.imgur.com/M7QLYhK.png" height="405" width="379">
+
+<img src="https://i.imgur.com/wqQVo7w.png" height="417" width="361">
+
 
 ***
 ## Awards ##
 
+### BluePrint CS (3rd place) ###
+* Hackathon event at UCSD
+
 ### CIRT Design Competition ###
 * Designed Obama’s Presidential Library with 3d modeling software and won a national design competition.
 [Link to the Press Release](http://www.cirt.org/resources/Pictures/ACE42417_NatlWinners_PR.pdf)
+##### One on the right is me #####
+<img src="https://i.imgur.com/f1avJfp.png" height="515" width="519">
 
-### BluePrint CS (3rd place) ###
-* Hackathon event at UCSD
+
 
 
 
