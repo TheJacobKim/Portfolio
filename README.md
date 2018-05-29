@@ -1,11 +1,15 @@
 # Hyunjun Kim, Side Projects & Awards 
-This document lists my projects & awards.
+This document lists my projects, awards, and activities.
 
 ## Education
  UC San Diego , Computer Science Major
 
-## Contact
- Email: hyk053@ucsd.edu</p>
+## Contacts
+ LinkedIn: [linkedin.com/in/thejacobkim/](https://www.linkedin.com/in/thejacobkim/)
+ 
+ GitHub: [github.com/TheJacobKim](https://github.com/TheJacobKim)
+ 
+ Email: hyk053@ucsd.edu
 
 ## Projects ##
 
@@ -65,7 +69,9 @@ or statistics of this name from the 19th century to 21th century.
 To compile this program, simply navigate to the directory containing 
 the source files for PA3 (which should include the Makefile) and type make.
 
-`make`
+```bash
+make
+```
 
 ##### How to run #####
 To run this program, type executeable name. For example:
@@ -77,10 +83,14 @@ To run this program, type executeable name. For example:
 ```
 
   Detailed Usage can be seen from typing -h
-`./pa2 -h`
+```bash
+./pa2 -h
+```
 
 ##### Normal output #####
-`./pa3 `
+```bash
+./pa3
+```
 
 <img src="https://i.imgur.com/M7QLYhK.png" height="405" width="379">
 
@@ -92,6 +102,7 @@ To run this program, type executeable name. For example:
 
 ### BluePrint CS (3rd place) ###
 * Hackathon event at UCSD
+* Presented about an educational website which teach its user about stack memory allocation.
 
 ### CIRT Design Competition ###
 * Designed Obama’s Presidential Library with 3d modeling software and won a national design competition.
@@ -99,7 +110,22 @@ To run this program, type executeable name. For example:
 ##### One on the right is me #####
 <img src="https://i.imgur.com/f1avJfp.png" height="515" width="519">
 
+***
+## Activities ##
 
+### Pycon 2017
+
+<img src="https://www.pycon.kr/2017/static/image/pyconkr-2017-cover.png" height="150" width="300">
+
+* Participant of Pycon 2017, in Seoul, South Korea.
+* Learned abput about Pandas and numPy
+
+### SDHacks 2017
+
+<img src="https://www.sdhacks.io/assets/sdhacks-logo.svg" height="154" width="160">
+
+* Participant of Pycon 2017, in Seoul, South Korea.
+* Learned abput about Pandas and numPy
 
 
 
