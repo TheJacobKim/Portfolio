@@ -1,4 +1,4 @@
-# Hyunjun Kim, Side Projects & Awards 
+# Jacob Kim, Side Projects & Awards 
 This document lists my projects, awards, and activities.
 
 ## Education
