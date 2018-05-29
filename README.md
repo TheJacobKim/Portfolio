@@ -94,7 +94,7 @@ To run this program, type executeable name. For example:
 
 <img src="https://i.imgur.com/M7QLYhK.png" height="405" width="379">
 
-<img src="https://i.imgur.com/wqQVo7w.png" height="417" width="361">
+<img src="https://i.imgur.com/wqQVo7w.png" height="316" width="417">
 
 
 ***
@@ -103,12 +103,13 @@ To run this program, type executeable name. For example:
 ### BluePrint CS (3rd place) ###
 * Hackathon event at UCSD
 * Presented about an educational website which teach its user about stack memory allocation.
+<img src="https://i.imgur.com/W89IfJ2.jpg" height="364" width="540">
 
 ### CIRT Design Competition ###
 * Designed Obama’s Presidential Library with 3d modeling software and won a national design competition.
 * [Link to the Press Release](http://www.cirt.org/resources/Pictures/ACE42417_NatlWinners_PR.pdf)
 ##### One on the right is me #####
-<img src="https://i.imgur.com/f1avJfp.png" height="515" width="519">
+<img src="https://i.imgur.com/f1avJfp.png" height="300" width="300">
 
 ***
 ## Activities ##
@@ -122,7 +123,7 @@ To run this program, type executeable name. For example:
 
 ### SDHacks 2017
 
-<img src="https://www.sdhacks.io/assets/sdhacks-logo.svg" height="154" width="160">
+<img src="https://www.sdhacks.io/assets/sdhacks-logo.svg" height="125" width="250">
 
 * Designed a VR simulation that uses iPhone as a remote control.
 * Applied object oriented programming skill to create objects in VR space.
