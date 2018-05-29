@@ -1,6 +1,5 @@
 # Hyunjun Kim, Portfolio 
-
-This document contains my projects (personal & school) and awards.
+This document lists my projects & awards.
 
 ## Projects ##
 
@@ -9,12 +8,10 @@ This document contains my projects (personal & school) and awards.
   * A simple attempt to create a video game with Python. Main objective of this game, Alien Invasion, is to shoot down aliens before they reach the bottom. 
   * It uses pygame library to run.
 
-~~I used Kim Jong-Un as a villan, but when peace finally arrives between North and South Korea, he will be removed from the villans.~~
-
 ##### Demo
  * The game looks like this.
 
-<img src="https://github.com/TheJacobKim/alien_invasion/blob/master/images/README1.PNG" height="416" width="302">
+   <img src="https://github.com/TheJacobKim/alien_invasion/blob/master/images/README1.PNG" height="416" width="302">
 
 ##### Built with
  * [PyGame]
@@ -29,11 +26,11 @@ This document contains my projects (personal & school) and awards.
 ##### Demo
  * Plotting sepal width / petal width
 
-<img src="https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example1.png" height="276" width="415">
+   <img src="https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example1.png" height="276" width="415">
 
  * Using Support Vector Classifier
 
-<img src="https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example2.png" height="276" width="415">
+   <img src="https://github.com/TheJacobKim/IRISDataSet/blob/master/examplePhotos/Example2.png" height="276" width="415">
 
 ##### Built with
  * Jupyter Notebook
